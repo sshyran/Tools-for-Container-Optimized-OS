@@ -27,9 +27,9 @@ require (
 	github.com/stretchr/testify v1.8.0 // indirect
 	github.com/urfave/cli/v2 v2.2.0
 	go.chromium.org/luci v0.0.0-20200722211809-bab0c30be68b
-	golang.org/x/net v0.0.0-20220624214902-1bab6f366d9e
+	golang.org/x/net v0.7.0
 	golang.org/x/oauth2 v0.0.0-20220822191816-0ebed06d0094
-	golang.org/x/sys v0.0.0-20220731174439-a90be440212d
+	golang.org/x/sys v0.5.0
 	google.golang.org/api v0.94.0
 	google.golang.org/genproto v0.0.0-20220822174746-9e6da59bd2fc
 	google.golang.org/grpc v1.48.0
